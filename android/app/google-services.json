@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "374737594333",
+    "project_id": "test-flutter-flow-73583",
+    "storage_bucket": "test-flutter-flow-73583.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:374737594333:android:3e982b0899e5eeaa0bf834",
+        "android_client_info": {
+          "package_name": "com.mealplanner.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAxgnZRwcVaDozC6o9VxliGRCqQUh-78KA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
