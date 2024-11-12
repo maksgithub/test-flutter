@@ -28,3 +28,7 @@ String returnProfileGreeting(DateTime timestamp) {
 String? newCustomFunction() {
   return '123';
 }
+
+String? newCustomFunction2() {
+  return '123';
+}
